@@ -1,3 +1,5 @@
+### Hi there 👋
+<!--
 # Header 1
 
 - [myungjinki.github.io](https://myungjinki.github.io/)
@@ -10,9 +12,7 @@ Test
 
 #### Header 4
 
-### Hi there 👋
 
-<!--
 **myungjinki/myungjinki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
