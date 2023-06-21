@@ -1,18 +1,8 @@
-### Hi there 👋
+### Hi👋 I'm Myungjin Ki.
+
+- [Click](https://www.github.com/myungjinki/) if you want to navigate my GitHub repositories
+
 <!--
-# Header 1
-
-- [myungjinki.github.io](https://myungjinki.github.io/)
-
-## Header 2
-
-Test
-
-### Header 3
-
-#### Header 4
-
-
 **myungjinki/myungjinki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
