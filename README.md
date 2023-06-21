@@ -1,6 +1,6 @@
 ### Hi👋 I'm Myungjin Ki.
 
-- [Click](https://www.github.com/myungjinki/) if you want to navigate my GitHub repositories
+- [Click](https://github.com/myungjinki/myungjinki/tree/main/index) if you want to navigate my GitHub repositories
 
 <!--
 **myungjinki/myungjinki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
