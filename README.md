@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Myung-jin Ki
-- 👀 I’m interested in indie hacker
+👋 Hi, I’m Myungjin Ki. a.k.a. mjki
+👀 I love make useful things myself.
 
 <!---
 meongjinki/meongjinki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
