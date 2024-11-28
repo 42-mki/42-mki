@@ -1,6 +1,4 @@
-👋 Hi, I’m Myungjin Ki. a.k.a. mjki
-
-😍 I love make useful things myself.
+👋 Hi, I’m Myungjin Ki.
 
 <!---
 meongjinki/meongjinki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
