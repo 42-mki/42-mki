@@ -10,10 +10,7 @@
 ## Toy Project
 
 - [toy-billionairs](https://github.com/myungjinki/toy-billionairs)
-- [toy-marvel](https://github.com/myungjinki/toy-marvel)
-- [toy-disney](https://github.com/myungjinki/toy-disney)
 - [toy-nomflix](https://github.com/myungjinki/toy-nomflix)
-- [toy-pomodoro](https://github.com/myungjinki/toy-pomodoro)
 - [toy-tmdb](https://github.com/myungjinki/toy-tmdb)
 - [toy-nytimes-books](https://github.com/myungjinki/toy-nytimes-books)
 
