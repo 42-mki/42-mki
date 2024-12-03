@@ -3,8 +3,6 @@
 ## Project
 
 - [mjki.dev](https://github.com/myungjinki/mjki.dev)
-- [japanese.mjki.dev](https://github.com/myungjinki/japanese.mjki.dev)
-- [quatarairways.markets](https://github.com/myungjinki/quatarairways.markets)
 - [what-did-you-eat](https://github.com/myungjinki/what-did-you-eat)
 
 ## Toy Project
