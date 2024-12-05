@@ -1,8 +1,11 @@
 👋 Hi, I’m Myungjin Ki
 
-## Project
+## Solo Project
 
 - [mjki.dev](https://github.com/myungjinki/mjki.dev)
+
+## Team Project
+
 - [what-did-you-eat](https://github.com/myungjinki/what-did-you-eat)
 
 ## Toy Project
@@ -12,13 +15,17 @@
 - [toy-tmdb](https://github.com/myungjinki/toy-tmdb)
 - [toy-nytimes-books](https://github.com/myungjinki/toy-nytimes-books)
 
-## Project in 42
+## 42 Team Project 
 
 - [inception-of-things](https://github.com/myungjinki/inception-of-things)
 - [ft_transcendence](https://github.com/myungjinki/ft_transcendence)
+- [webserv](https://github.com/myungjinki/webserv)
+- [minishell](https://github.com/myungjinki/minishell)
+
+## 42 Solo Project 
+
 - [ft_containers](https://github.com/myungjinki/ft_containers)
 - [inception](https://github.com/myungjinki/inception)
-- [webserv](https://github.com/myungjinki/webserv)
 - [net-practice](https://github.com/myungjinki/net-practice)
 - [cpp-module-08](https://github.com/myungjinki/cpp-module-08)
 - [cpp-module-07](https://github.com/myungjinki/cpp-module-07)
@@ -30,7 +37,6 @@
 - [cpp-module-01](https://github.com/myungjinki/cpp-module-01)
 - [cpp-module-00](https://github.com/myungjinki/cpp-module-00)
 - [philosophers](https://github.com/myungjinki/philosophers)
-- [minishell](https://github.com/myungjinki/minishell)
 - [netwhat](https://github.com/myungjinki/netwhat)
 - [cub3d](https://github.com/myungjinki/cub3d)
 - [ft_server](https://github.com/myungjinki/ft_server)
