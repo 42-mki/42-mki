@@ -26,23 +26,10 @@
 
 - [ft_containers](https://github.com/myungjinki/ft_containers)
 - [inception](https://github.com/myungjinki/inception)
-- [net-practice](https://github.com/myungjinki/net-practice)
-- [cpp-module-08](https://github.com/myungjinki/cpp-module-08)
-- [cpp-module-07](https://github.com/myungjinki/cpp-module-07)
-- [cpp-module-06](https://github.com/myungjinki/cpp-module-06)
-- [cpp-module-05](https://github.com/myungjinki/cpp-module-05)
-- [cpp-module-04](https://github.com/myungjinki/cpp-module-04)
-- [cpp-module-03](https://github.com/myungjinki/cpp-module-03)
-- [cpp-module-02](https://github.com/myungjinki/cpp-module-02)
-- [cpp-module-01](https://github.com/myungjinki/cpp-module-01)
-- [cpp-module-00](https://github.com/myungjinki/cpp-module-00)
 - [philosophers](https://github.com/myungjinki/philosophers)
-- [netwhat](https://github.com/myungjinki/netwhat)
 - [cub3d](https://github.com/myungjinki/cub3d)
 - [ft_server](https://github.com/myungjinki/ft_server)
 - [ft_printf](https://github.com/myungjinki/ft_printf)
-- [get_next_line](https://github.com/myungjinki/get_next_line)
-- [libft](https://github.com/myungjinki/libft)
   
 <!---
 myungjinki/myungjinki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
