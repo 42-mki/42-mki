@@ -28,7 +28,6 @@
 - [inception](https://github.com/myungjinki/inception)
 - [philosophers](https://github.com/myungjinki/philosophers)
 - [cub3d](https://github.com/myungjinki/cub3d)
-- [ft_server](https://github.com/myungjinki/ft_server)
 - [ft_printf](https://github.com/myungjinki/ft_printf)
   
 <!---
